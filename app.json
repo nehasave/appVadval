@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "BeoNews",
+    "description": "React Native app for Wordpress, demo website- http://news.inspireui.com, download link - https://shrtm.nu/ldqY",
+    "slug": "beonews",
+    "privacy": "public",
+    "sdkVersion": "30.0.0",
+    "version": "2.9.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/loading.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "mp4"
+      ]
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "assets/Images/**"
+    ]
+  }
+}
