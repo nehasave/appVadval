@@ -11,7 +11,7 @@
     "expo": "30.0.1",
     "firebase": "5.5.0",
     "html-entities": "^1.2.1",
-    "lodash": "4.17.11",
+    "lodash": "4.17.19",
     "moment": "2.22.2",
     "path": "^0.12.7",
     "prop-types": "15.6.2",
